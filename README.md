@@ -1,6 +1,6 @@
 # hogai - an AI Groundhog
 
-![groundhog](imgs/no_shadow.png | width=250 "Art by Leah Briscoe")
+<img src="imgs/no_shadow.png" alt="Drawing by Leah Briscoe" width="200"/>
 
 Groundhog's Day is a popular American holiday in the US. On February 2 of every year, thousands of citizens gather in Punxsutawney, Pennsylvania to see Punxsutawney Phil, a groundhog, predict the arrival of spring.
 
