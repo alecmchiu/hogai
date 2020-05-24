@@ -6,7 +6,9 @@ Outcomes and Weather Forecasts:
 https://www.kaggle.com/groundhogclub/groundhog-day/
 
 # This bounding box includes Punxsutawney, Pennsylvania
-Bound Box Coordinates: 40.945, -78.98, 40.946, -78.97
+Bounding Box Coordinates: 40.942,-78.973,40.946,-78.967
+
+Jefferson County Station ID: 725125 04787 
 
 Wind, Temperature, and Cloud Data:
 https://disc.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22&page=1&source=Models%2FAnalyses%20MERRA-2
