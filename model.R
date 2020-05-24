@@ -64,13 +64,9 @@ library(rpart)
 library(randomForest)
 
 nb <- naiveBayes(outcome~.,data=full_data[-test_set,])
-metrics(apply(predict(nb,full_data[-test_set,-2],type="raw"),1,max))
 svm_model <- svm(outcome~.,data=full_data[-test_set,])
-metrics(attr(predict(svm_model,full_data[-test_set,],decision.values = T),"decision.values"))
 rp <- rpart(outcome~.,data=full_data[-test_set,])
-metrics(apply(predict(rp,full_data[-test_set,]),1,max))
 rand_for <- randomForest(outcome~.,data=data.matrix(full_data[-test_set,]),importance=T)
-metrics(predict(rand_for,data.matrix(full_data[-test_set,-2])))
 
 lr_test <- sum(round(predict(log_reg,full_data[test_set,],type="response")) + 1 == as.numeric(full_data[test_set,2]))
 nb_test <- sum(predict(nb,full_data[test_set,],type="class") == full_data[test_set,2])
