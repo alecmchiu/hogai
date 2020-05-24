@@ -6,7 +6,7 @@ load("rf.RData")
 shadow_img <- "imgs/shadow.png"
 no_shadow_img <- "imgs/no_shadow.png"
 sky_convert <- c("CLR","BKN","SCT","OVC","OBS")
-names(sky_convert) <- c('Clear','Broken','Scattered','Overcast','Obscured')
+names(sky_convert) <- c('Clear','Broken (5/8 - 7/8)','Scattered (1/8 - 4/8)','Overcast','Obscured')
 
 shinyServer(function(input, output) {
   
