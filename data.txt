@@ -2,3 +2,14 @@ Groundhog Day Outcomes:
 https://www.stormfax.com/ghogday.htm
 https://www.thoughtco.com/groundhog-day-statistics-3126158
 
+Outcomes and Weather Forecasts:
+https://www.kaggle.com/groundhogclub/groundhog-day/
+
+# This bounding box includes Punxsutawney, Pennsylvania
+Bound Box Coordinates: 40.945, -78.98, 40.946, -78.97
+
+Wind, Temperature, and Cloud Data:
+https://disc.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22&page=1&source=Models%2FAnalyses%20MERRA-2
+
+Additional Climate Data:
+https://www.ncdc.noaa.gov/cdo-web/

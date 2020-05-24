@@ -1,0 +1,125 @@
+1887	Shadow
+1888	Shadow
+1890	No Shadow
+1898	Shadow
+1900	Shadow
+1901	Shadow
+1902	No Shadow
+1903	Shadow
+1904	Shadow
+1905	Shadow
+1906	Shadow
+1907	Shadow
+1908	Shadow
+1909	Shadow
+1910	Shadow
+1911	Shadow
+1912	Shadow
+1913	Shadow
+1914	Shadow
+1915	Shadow
+1916	Shadow
+1917	Shadow
+1918	Shadow
+1919	Shadow
+1920	Shadow
+1921	Shadow
+1922	Shadow
+1923	Shadow
+1924	Shadow
+1925	Shadow
+1926	Shadow
+1927	Shadow
+1928	Shadow
+1929	Shadow
+1930	Shadow
+1931	Shadow
+1932	Shadow
+1933	Shadow
+1934	No Shadow
+1935	Shadow
+1936	Shadow
+1937	Shadow
+1938	Shadow
+1939	Shadow
+1940	Shadow
+1941	Shadow
+1942	Shadow
+1943	No Shadow
+1944	Shadow
+1945	Shadow
+1946	Shadow
+1947	Shadow
+1948	Shadow
+1949	Shadow
+1950	No Shadow
+1951	Shadow
+1952	Shadow
+1953	Shadow
+1954	Shadow
+1955	Shadow
+1956	Shadow
+1957	Shadow
+1958	Shadow
+1959	Shadow
+1960	Shadow
+1961	Shadow
+1962	Shadow
+1963	Shadow
+1964	Shadow
+1965	Shadow
+1966	Shadow
+1967	Shadow
+1968	Shadow
+1969	Shadow
+1970	No Shadow
+1971	Shadow
+1972	Shadow
+1973	Shadow
+1974	Shadow
+1975	No Shadow
+1976	Shadow
+1977	Shadow
+1978	Shadow
+1979	Shadow
+1980	Shadow
+1981	Shadow
+1982	Shadow
+1983	No Shadow
+1984	Shadow
+1985	Shadow
+1986	No Shadow
+1987	Shadow
+1988	No Shadow
+1989	Shadow
+1990	No Shadow
+1991	Shadow
+1992	Shadow
+1993	Shadow
+1994	Shadow
+1995	No Shadow
+1996	Shadow
+1997	No Shadow
+1998	Shadow
+1999	No Shadow
+2000	Shadow
+2001	Shadow
+2002	Shadow
+2003	Shadow
+2004	Shadow
+2005	Shadow
+2006	Shadow
+2007	No Shadow
+2008	Shadow
+2009	Shadow
+2010	Shadow
+2011	No Shadow
+2012	Shadow
+2013	No Shadow
+2014	Shadow
+2015	Shadow
+2016	No Shadow
+2017	Shadow
+2018	Shadow
+2019	No Shadow
+2020	No Shadow
